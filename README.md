@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kousik Das</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">💻 Full-Stack Developer | MERN & MEAN Stack Specialist | JavaScript Expert</h3>
 
-- 🔭 I’m currently working on **PAAP**
+Hi! I'm a passionate and experienced Full-Stack Developer with 4+ years of hands-on expertise in MERN (MongoDB, Express, React, Node.js) and MEAN (MongoDB, Express, Angular, Node.js) stacks. I’ve successfully delivered 19+ projects focused on building high-performance, responsive, and scalable web applications.
 
-- 🌱 I’m currently learning **Next JS**
+🔧 Tech Stack & Skills:
+- JavaScript (ES6+) | React.js | Angular | Node.js
+- Full-Stack: MERN & MEAN expertise
+- APIs & Microservices: RESTful API development & integration
+- UI/UX: MUI, TailwindCSS, Angular Material, Ant Design, Bootstrap, shadcn
+- Cloud & DevOps: AWS, Heroku, Docker
 
-- 👨‍💻 All of my projects are available at [https://kousik-dev.netlify.app/](https://kousik-dev.netlify.app/)
-
-- 💬 Ask me about **React JS, Next JS**
-
-- 📫 How to reach me **kousikdasbabu2@gmail.com**
-
-- ⚡ Fun fact **I like to travel.**
+🚀 What I Offer:
+- End-to-end full-stack development
+- Scalable API & microservices architecture
+- Dynamic SPAs with React/Angular
+- Clean, responsive UI/UX design
+- Performance optimization
+- Long-term support & maintenance
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
